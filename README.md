@@ -12,17 +12,18 @@
 
 - 🔭 I’m currently working on **improving my QA and Test Automation skills.**
 
-- 👨‍💻 Portfolio [https://abdul-ahad-qa-s8o4wae.gamma.site/](https://abdul-ahad-qa-s8o4wae.gamma.site/)
-
-- 📝 I regularly write articles on [https://medium.com/@ahadofficial2005](https://medium.com/@ahadofficial2005)
+- ⚡ Fun fact **I enjoy exploring applications from a tester’s perspective and finding issues before they reach the end user.**
 
 - 💬 Ask me about **Software Testing, API Testing, Bug Hunting, Test Cases, Testing Tools, Postman, or QA practices.**
 
+- 👨‍💻 Portfolio [https://abdul-ahad-qa-s8o4wae.gamma.site/](https://abdul-ahad-qa-s8o4wae.gamma.site/)
+
+- 📄 Know about my experiences [https://github.com/abdulahad4201/CV/blob/main/CV.pdf](https://github.com/abdulahad4201/CV/blob/main/SQA_CV.pdf)
+
+- 📝 I write articles on [https://medium.com/@ahadofficial2005](https://medium.com/@ahadofficial2005)
+
 - 📫 How to reach me **ahadofficial2005@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/abdulahad4201/CV/blob/main/CV.pdf](https://github.com/abdulahad4201/CV/blob/main/CV.pdf)
-
-- ⚡ Fun fact **I enjoy exploring applications from a tester’s perspective and finding issues before they reach the end user.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
