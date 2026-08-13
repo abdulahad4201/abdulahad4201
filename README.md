@@ -8,7 +8,7 @@
 
 - **💼 2+ Years of Hands-on Experience in SQA.**
 
-- 🌱 I’m currently learning **Playwright and k6.**
+- 🌱 I’m currently learning **Playwright, Git and k6.**
 
 - 🔭 I’m currently working on **improving my QA and Test Automation skills.**
 
