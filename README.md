@@ -1,4 +1,4 @@
-![logo](https://github.com/abdulahad4201/abdulahad4201/blob/main/ABDUL-AHAD.png)
+![logo](https://github.com/abdulahad4201/abdulahad4201/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
 <h3 align="center">SQA Engineer | Manual, API & Performance Testing | Web & Mobile Applications | Playwright | Postman | BrowserStack | k6</h3>
 
