@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Software Testing, API Testing, Bug Hunting, Test Cases, Testing Tools, Postman, or QA practices.**
 
-- 👨‍💻 Portfolio [https://copy-of-abdul-ahad-aspir-ccpcp14.gamma.site/](https://copy-of-abdul-ahad-aspir-ccpcp14.gamma.site/)
+- 👨‍💻 Portfolio [https://ahad-portfolio-s8o4wae.gamma.site/abdul-ahad](https://ahad-portfolio-s8o4wae.gamma.site/abdul-ahad)
 
 - 📄 Know about my experiences [https://github.com/abdulahad4201/CV/blob/main/CV.pdf](https://github.com/abdulahad4201/CV/blob/main/SQA_CV.pdf)
 
